@@ -1,0 +1,11 @@
+[build-system] 
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "flashcard_doop"
+version = "0.1.0"
+description = "creates flashcards from text"
+dependencies = [
+    "pypdfium2>=5.5.0",
+    "PyYAML>=5.4.1"]
+requires-python = ">=3.9"

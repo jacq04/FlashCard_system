@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+text_extraction.py
+flashcard_doop.egg-info/PKG-INFO
+flashcard_doop.egg-info/SOURCES.txt
+flashcard_doop.egg-info/dependency_links.txt
+flashcard_doop.egg-info/requires.txt
+flashcard_doop.egg-info/top_level.txt
